@@ -1,0 +1,24 @@
+.post-detail-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #2d2d55;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    color: #eaeaea;
+  }
+  
+  h2 {
+    margin-bottom: 1em;
+  }
+  
+  p {
+    margin-bottom: 1em;
+    color: #eaeaea;
+  }
+  
+  strong {
+    color: #4c4cb7;
+  }
+  
